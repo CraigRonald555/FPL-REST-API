@@ -1,4 +1,4 @@
-# FPL Auto-Manager Test
+# FPL Squad Selecting Algorithm Testing API
 
 ## Full Description
 
