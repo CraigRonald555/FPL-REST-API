@@ -16,18 +16,18 @@ The format of the backend will be:
 		"gameweek 1": {
 		"url": "https://fantasy.premierleague.com/api/event/1/live/",
 		"elements": *THE RESPECTIVE JSON OBJECT RETURNED FROM URL ABOVE*
-     },
+     		},
 		"gameweek 2": {
 		"url": "https://fantasy.premierleague.com/api/event/2/live/",
-    "elements": *THE RESPECTIVE JSON OBJECT RETURNED FROM URL ABOVE*
-     },
-    ...
-    ...
-  },
+    		"elements": *THE RESPECTIVE JSON OBJECT RETURNED FROM URL ABOVE*
+     		},
+    		...
+    		...
+  	},
   
-  "21/22": {
-    ...
-   }
+  	"21/22": {
+    		...
+   	}
    
 }
 ```
