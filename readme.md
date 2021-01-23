@@ -10,6 +10,5 @@ Endpoints will allow users to send an array of players (the squad) along with th
 
 ## Planning documentation
 
-1. [Table Design](https://docs.google.com/document/d/1rSaNnp6NBy6kyY_6TPAzc1Bxj4aa-n7a-r1ryaYfv3I/edit?usp=sharing)
-2. [Finding the relevant data](https://docs.google.com/document/d/1Kzbi1v0owFkDWXcQnaUPGRZUa-UaDPMfGyWIZsoLBk4/edit?usp=sharing)
-3. Node.js & Express Server
+1. [Finding the relevant data](https://github.com/CraigRonald555/FPL-Squad-Selecting-Algorithm-Testing-API/blob/master/Documentation/locating_data.md)
+2. [Node.js & Express Server](https://github.com/CraigRonald555/FPL-Squad-Selecting-Algorithm-Testing-API/blob/master/Documentation/nodejs_express_server.md)
