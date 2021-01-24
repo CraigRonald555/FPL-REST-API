@@ -1,15 +1,15 @@
 Endpoints
 
-## Player Performance
+# Player Performance
 
-# Retrieve the amount of points a player scored in a given gameweek
+## Retrieve the amount of points a player scored in a given gameweek
 
-<b>URL</b> 
-GET /gameweekscore/:gameweek/:playerid
-
-<b>PARAMS</b>
-Gameweek - the number of the gameweek
-PlayerID - the id of the player from FPL
+<b>URL</b>  
+GET /gameweekscore/:gameweek/:playerid  
+  
+<b>PARAMS</b>  
+Gameweek - the number of the gameweek  
+PlayerID - the id of the player from FPL  
 
 ### Player
 
