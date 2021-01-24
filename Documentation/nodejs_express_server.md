@@ -1,6 +1,6 @@
 Endpoints
 
-<span style="font-size:18px>Player Performance</span>
+<span style="font-size:6em>Player Performance</span>
 
 <span style="font-size:14px><b>Retrieve the amount of points a player scored in a given gameweek</b></span>
 
