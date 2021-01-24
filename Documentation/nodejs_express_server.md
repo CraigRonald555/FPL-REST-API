@@ -1,12 +1,13 @@
 Endpoints
 
-<span style="font-size:18px; font-weight: bold">Player Performance</span>
+## Player Performance
 
-<span style="font-size:14px; font-weight: bold">Retrieve the amount of points a player scored in a given gameweek</span>
+# Retrieve the amount of points a player scored in a given gameweek
 
-<span style="font-size:12px; font-weight: bold">URL</span>  
+<b>URL</b> 
 GET /gameweekscore/:gameweek/:playerid
-<span style="font-size:12px; font-weight: bold">PARAMS</span>  
+
+<b>PARAMS</b>
 Gameweek - the number of the gameweek
 PlayerID - the id of the player from FPL
 
