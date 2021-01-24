@@ -12,7 +12,7 @@ The format of the backend will be:
 ```
 {
 
-	"20/21": {
+	"2021": {
 		"gameweek 1": {
 		"url": "https://fantasy.premierleague.com/api/event/1/live/",
 		"elements": *THE RESPECTIVE JSON OBJECT RETURNED FROM URL ABOVE*
@@ -25,12 +25,12 @@ The format of the backend will be:
     		...
   	},
   
-  	"21/22": {
+  	"2122": {
     		...
    	}
    
 }
 ```
 
-An Admin endpoint will be added to update the database with any game week objects which have not yet been imported into the database.
+An endpoint only accessible to admins will be added to update the database with any game week objects which have not yet been imported into the database. 
 
