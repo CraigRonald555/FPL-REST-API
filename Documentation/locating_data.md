@@ -34,3 +34,16 @@ The format of the backend will be:
 
 An endpoint only accessible to admins will be added to update the database with any game week objects which have not yet been imported into the database. 
 
+Edit:
+
+I realised users won't have access to the players' FPL ids therefore an object for players will be added so users can request the playerid using the player name. By extracting data from https://fantasy.premierleague.com/api/bootstrap-static/, player data will be stored with this format:
+
+```
+{
+	"$player_id": {
+		"first_name": *first name*,
+		"surname": *surname*,
+		"web_name": *web_name*
+}
+```
+
