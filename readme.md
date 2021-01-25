@@ -1,4 +1,4 @@
-# FPL Squad Selecting Algorithm Testing API
+# FPL REST API
 
 ## Full Description
 
